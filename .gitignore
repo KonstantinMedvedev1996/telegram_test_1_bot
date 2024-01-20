@@ -6,7 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#project_ignored
 ven/
+Config.py
 
 # Distribution / packaging
 .Python
